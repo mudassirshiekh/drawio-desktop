@@ -23,7 +23,8 @@ Support is provided on a reasonable business constraints basis, but without anyt
 
 Purchasing draw.io for Confluence or Jira does not entitle you to commercial support for draw.io desktop, unless you have a paid advanced (premium) edition of draw.io for Confluence Cloud.
 
-Developing
+Developings
+## By Mudassir Alam
 ----------
 
 **draw.io** is a git submodule of **drawio-desktop**. To get both you need to clone recursively:
